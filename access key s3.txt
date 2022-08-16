@@ -1,0 +1,6 @@
+Access Key ID:
+AKIATCYENHBMLNGBDBFP
+Secret Access Key:
+U77MPi8x7AllwgEVviMz0OqcwrkYRHGL9ZFbw4e5
+
+s3_uri-s3://akash.mum.bucket/
